@@ -44,6 +44,7 @@ on:
           - firefly-rk3399
           - fmx1-pro
           - jp-tvbox
+          - jws3399
           - h28k
           - h66k
           - h68k
